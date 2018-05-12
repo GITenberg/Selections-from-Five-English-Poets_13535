@@ -1,0 +1,61 @@
+_repo: Selections-from-Five-English-Poets_13535
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Gray, Thomas
+    birthdate: 1716
+    deathdate: 1771
+    gutenberg_agent_id: '4626'
+    url: http://www.gutenberg.org/2009/agents/4626
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Gray
+  - agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Burns
+  - agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+  - agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  - agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Litchfield, Mary E. (Mary Elizabeth)
+    birthdate: 1854
+    gutenberg_agent_id: '7422'
+    url: http://www.gutenberg.org/2009/agents/7422
+description: ''
+gutenberg_issued: '2004-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: A Song For St. Cecilia's Day, Dryden -- Elegy Written In A Country
+  Churchyard, Gray -- The Traveller, Goldsmith -- The Deserted Village, Goldsmith
+  -- The Cotter's Saturday Night, Burns -- The Ancient Mariner, Coleridge.
+title: Selections from Five English Poets
+url: http://www.gutenberg.org/ebooks/13535
