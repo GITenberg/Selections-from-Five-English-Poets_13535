@@ -56,6 +56,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry'
+- GITenberg
 tableOfContents: A Song For St. Cecilia's Day, Dryden -- Elegy Written In A Country
   Churchyard, Gray -- The Traveller, Goldsmith -- The Deserted Village, Goldsmith
   -- The Cotter's Saturday Night, Burns -- The Ancient Mariner, Coleridge.
